@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Nasrin ",
+        "description": " We got so many products from their Bangladesh that we lost track of items which one is from them and which one is not. Here are few products’ snaps from our home. Definitely recommended.",
+        "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8d29tYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": " Nehal",
+        "description": "Purchased so many items from them but these frames are absolute favourites",
+        "image": "https://images.unsplash.com/photo-1605462863863-10d9e47e15ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "name": " Ziaul ",
+        "description": "Just went to the showroom (12 may 2021 at 3 pm) The people over there are 100% unprofessional. Does not know any product detail. If u ask: he he bhule gesi.They are not even ashamed. So disgusting.",
+        "image": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "rating": 1
+    },
+    {
+        "id": 4,
+        "name": "Farzana",
+        "description": "Delighted by  products and service delivery. Top notch workmanship in both cases. I received my arm chair today within a week of ordering and the salesman delivering it, Md Emdad, was very competent and mindful of following strict covid hygiene protocol. That was very impressive. Highly recommend them!",
+        "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d29tYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "name": " Nusrat",
+        "description": "Love their products! Modern, simple and classy!",
+        "image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d29tYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "rating": 4
+    },
+    {
+        "id": 6,
+        "name": " Khaled",
+        "description": "I ordered a foldable laptop table. after confirming the order, they told it will take 10 working days to deliver. However, I was okay with that since I was really in need of it. after 10 days, they delivered it, but the product was faulty the keys for locking the table legs were loose I informed it to the delivery man right at that day.Too much unprofessional and reluctant!",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "rating": 2
+    }
+]

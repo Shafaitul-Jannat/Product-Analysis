@@ -1,17 +1,17 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import CustomLink from '../CustomLink/CustomLink';
 
 
 
 const Header = () => {
     return (
         <div>
-            <nav className=' md-flex  space-x-20 font-medium px-3 py-2 hover:bg-slate-100 hover:text-red-700  '>
-                <Link to='/'>Home</Link>
-                <Link to='/reviews'>Reviews</Link>
-                <Link to='/dashboard'>Dashboard</Link>
-                <Link to='/blogs'>Blogs</Link>
-                <Link to="/about">About</Link>
+            <nav className=' flex space-x-20 justify-center mb-5 mt-3 '>
+                <CustomLink className=' font-medium px-3 py-2 hover:text-red-700  hover:border-b-[3px] border-red-700  ' to='/'>Home</CustomLink>
+                <CustomLink className=' font-medium px-3 py-2 hover:text-red-700 hover:border-b-[3px] border-red-700  ' to='/reviews'>Reviews</CustomLink>
+                <CustomLink className=' font-medium px-3 py-2 hover:text-red-700 hover:border-b-[3px] border-red-700  ' to='/dashboard'>Dashboard</CustomLink>
+                <CustomLink className=' hover:text-red-700   font-medium px-3 py-2  hover:border-b-[3px] border-red-700  ' to='/blogs'>Blogs</CustomLink>
+                <CustomLink className=' hover:text-red-700 font-medium px-3 py-2  hover:border-b-[3px] border-red-700  ' to="/about">About</CustomLink>
 
             </nav >
 
