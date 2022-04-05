@@ -1,8 +1,12 @@
 # Product-Analysis
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Netlify Link:
 
-## Available Scripts
+## About the Project
 
-In the project directory, you can run:
+1. This is analytical Project
+2. It is  a furniture Company
+3. Where many people gave reviews
+4. the website is made by React and JavaScript
+5. We used TailwindCSS for the project
 

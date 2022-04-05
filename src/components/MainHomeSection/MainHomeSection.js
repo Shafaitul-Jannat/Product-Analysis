@@ -3,7 +3,7 @@ import React from 'react';
 const MainHomeSection = () => {
     return (
         <div className=''>
-            <div className='grid grid-cols-2 py-20'>
+            <div className='grid grid-cols-2  py-20'>
                 <div>
                     <h1 className='text-5xl font-black'>Your Home</h1>
                     <h1 className='text-5xl font-black text-amber-800'>Your Choice</h1>
@@ -12,8 +12,8 @@ const MainHomeSection = () => {
                     <br />
                     <button className='bg-cyan-500 hover:bg-cyan-300 rounded-full py-3 px-5 font-bold text-white'>Collection</button>
                 </div>
-                <div className='ml-48 mr-20' >
-                    <img className='' src="images/mid-century-modern-living-room-interior-design-with-monstera-tree.jpg" alt="" />
+                <div className='ml-40 mr-20 ' >
+                    <img className='h-80 w-100' src="images/mid-century-modern-living-room-interior-design-with-monstera-tree.jpg" alt="" />
                 </div>
             </div>
 
